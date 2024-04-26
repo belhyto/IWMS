@@ -11,7 +11,7 @@ React based prototype for an intelligent warehouse management system.
 ```bash
 # Example installation command
 npm install
-'''
+```
 
 ## Contributing
 
